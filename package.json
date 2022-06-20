@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Javabar/node-js/issues"
   },
-  "homepage": "https://github.com/Javabar/node-js#readme"
+  "homepage": "https://github.com/Javabar/node-js#readme",
+  "dependencies": {
+    "yargs": "^17.5.1"
+  }
 }
